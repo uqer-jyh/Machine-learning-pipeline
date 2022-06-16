@@ -4,7 +4,7 @@
 
 Machine learning is a powerful tool to achieve prediction. This pipeline is shown below, the completed picture is [here]([Machine-learning-pipeline/Pipeline.pdf at main · uqer-jyh/Machine-learning-pipeline (github.com)](https://github.com/uqer-jyh/Machine-learning-pipeline/blob/main/Pipeline.pdf))
 
-![image-20220616225050747](C:\Users\jyh\AppData\Roaming\Typora\typora-user-images\image-20220616225050747.png)
+![image-20220616225050747](Pipeline.png)
 
 ## Report Abstract
 
